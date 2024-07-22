@@ -1,3 +1,4 @@
 mysql:5.7
 redis:latest
 lyswhut/lx-music-sync-server:latest
+nginx:latest
